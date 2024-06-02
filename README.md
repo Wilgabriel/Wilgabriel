@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Wiliam Gabriel and I'm development student. I play in my Xbox.
 <!--
 **Wilgabriel/Wilgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
